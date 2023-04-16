@@ -38,3 +38,7 @@
 .pref--hidden {
     display: none;
 }
+
+.search-modal--hidden {
+    display: none;
+}
